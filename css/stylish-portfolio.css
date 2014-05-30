@@ -217,6 +217,40 @@ i.scroll {
 i.scroll:hover {
   color: #0a5175;
 }
+
+.meet1 {
+  display: table;
+  height: 100%;
+  width: 100%;
+  position: relative;
+  background: url(../img/1.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.meet5 {
+  display: table;
+  height: 100%;
+  width: 100%;
+  position: relative;
+  background: url(../img/x_deb97b24.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.policy {
+  display: table;
+  height: 100%;
+  width: 100%;
+  position: relative;
+  background: url(../img/colorade.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 /* Responsive */
 
 @media (max-width: 768px) {
@@ -229,8 +263,20 @@ i.scroll:hover {
 	background: url(../img/callout.jpg) no-repeat center center scroll; 
   }
 
+
   .map {
 	height: 75%;
+  }
+
+.meet1 {
+  background: url(../img/1.jpg) no-repeat center center scroll;
+}
+
+.meet5 {
+  background: url(../img/x_deb97b24.jpg) no-repeat center center scroll;
+}
+  .policy {
+	background: url(../img/colorade.jpg) no-repeat center center scroll;
   }
 
 }
