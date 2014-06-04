@@ -85,7 +85,7 @@
 - l_name:    Маслов
   name:    Евгений
   s_name:    Николаевич
-  status: none
+  status: dead
 - l_name:    Тимофеева (Щирук)
   name:    Ольга
   s_name:    Николаевна
@@ -145,7 +145,7 @@
 - l_name:    Василенко
   name:    Виталий
   s_name:    Станиславович
-  status: none
+  status: dead
 - l_name:    Триполко
   name:    Оксана
   s_name:    Витальевна

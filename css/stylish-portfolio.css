@@ -301,3 +301,7 @@ li.approved {
 li.declined {
     color: #f00;
 }
+
+li.dead {
+    color: #777;
+}
