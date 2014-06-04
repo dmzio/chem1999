@@ -288,3 +288,16 @@ text-shadow: 1px 1px 15px #000;
   }
 
 }
+
+
+li.contacted {
+    color: #ff9214;
+}
+
+li.approved {
+    color: #1ea126;
+}
+
+li.declined {
+    color: #f00;
+}
