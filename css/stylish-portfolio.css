@@ -21,6 +21,11 @@ color: #fff;
 text-shadow: 1px 1px 15px #ECDC2D;
 }
 
+.vert-text h1 a, .vert-text h1 a:visited, .vert-text h5 a, .vert-text h5 a:visited {
+   color: #fff;
+text-shadow: 1px 1px 15px #ECDC2D;
+}
+
 /* Side Menu */
 
 #sidebar-wrapper {
