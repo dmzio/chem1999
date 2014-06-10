@@ -2,6 +2,10 @@
   name:    Оксана
   s_name:    Васильевна
   status: none
+- l_name:    Желтикова
+  name:    Павел
+  s_name:
+  status: dead
 - l_name:    Деева
   name:    Юлия
   s_name:    Александровна
@@ -113,7 +117,7 @@
 - l_name:    Кудрявцева
   name:    Юлия
   s_name:    Александровна
-  status: none
+  status: dead
 - l_name:    Светличная
   name:    Наталья 
   s_name:    Владимировна
