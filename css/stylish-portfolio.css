@@ -300,7 +300,11 @@ li.contacted {
 }
 
 li.approved {
-    color: #1ea126;
+    color: #09832e;
+}
+
+li.wants {
+    color: #67a12a;
 }
 
 li.declined {
