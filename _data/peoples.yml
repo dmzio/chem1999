@@ -214,4 +214,16 @@
   name:    Михаил
   s_name:    Алексеевич
   status: wants
+
+- l_name:    Гавшин
+  name:    Александр
+  status: none
+
+- l_name:    Шарецкая
+  name:    Виктория
+  status: none
+
+- l_name:    Давидовская
+  name:    Ирина
+  status: none
   
