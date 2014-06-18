@@ -33,7 +33,7 @@
 - l_name:    Коряченко
   name:    Оксана
   s_name:    Александровна
-  status: none
+  status: contacted
 - l_name:    Кудрис
   name:    Илья
   s_name:    Владимирович
@@ -69,7 +69,7 @@
 - l_name:    Бондарь
   name:    Наталья 
   s_name:    Ивановна
-  status: none
+  status: contacted
 - l_name:    Зиолковский
   name:    Дмитрий
   s_name:    Владимирович
@@ -85,7 +85,7 @@
 - l_name:    Степанко
   name:    Дарья
   s_name:    Викторовна
-  status: none
+  status: contacted
 - l_name:    Маслов
   name:    Евгений
   s_name:    Николаевич
@@ -137,7 +137,7 @@
 - l_name:    Дергачева (Борисова )
   name:    Ольга
   s_name:    Владимировна
-  status: none
+  status: contacted
 - l_name:    Енина
   name:    Лариса
   s_name:    Сергеевна
