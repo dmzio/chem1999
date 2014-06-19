@@ -24,7 +24,7 @@ title: Статус участников мероприятия
             {% assign all_peoples = site.data.peoples | sort: 'l_name' %}
             {% for people in all_peoples %}
             <li class="{{ people.status}}">
-                <strong>{{ people.l_name }} {{ people.name }}</strong>
+                <strong>{{ people.l_name }} {{ people.name }}</strong> ({{ people.remark }})
             </li>
             {% endfor %}
         </ul>

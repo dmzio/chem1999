@@ -10,10 +10,10 @@
   name:    Юлия
   s_name:    Александровна
   status: none
-- l_name:    Литвин (Ермоленко)
+- l_name:    Литвин
   name:    Светлана
   s_name:    Ивановна
-  status: none
+  status: wants
 - l_name:    Шкумат
   name:    Ася
   s_name:    Анатольевна
@@ -81,7 +81,7 @@
 - l_name:    Коваль
   name:    Алла
   s_name:    Владимировна
-  status: none
+  status: wants
 - l_name:    Степанко
   name:    Дарья
   s_name:    Викторовна
@@ -97,7 +97,7 @@
 - l_name:    Адров 
   name:    Андрей
   s_name:    Александрович
-  status: none
+  status: wants
 - l_name:    Канивец
   name:    Виктория
   s_name:    Борисовна
@@ -129,7 +129,7 @@
 - l_name:    Мороз
   name:    Валерий
   s_name:    Владимирович
-  status: none
+  status: wants
 - l_name:    Абакумов
   name:    Владимир
   s_name:    Владимирович
@@ -138,6 +138,7 @@
   name:    Ольга
   s_name:    Владимировна
   status: wants
+  remark: с мужем
 - l_name:    Енина
   name:    Лариса
   s_name:    Сергеевна
@@ -157,7 +158,7 @@
 - l_name:    Филатов
   name:    Дмитрий
   s_name:    Юрьевич
-  status: none
+  status: wants
 - l_name:    Беспалова 
   name:    Ирина
   s_name:    Игоревна
@@ -193,7 +194,8 @@
 - l_name:    Зинченко
   name:    Екатерина
   s_name:    Николаевна
-  status: none
+  status: wants
+  remark: с мужем
 - l_name:    Пикалов
   name:    Алексей
   s_name:    Николаевич
@@ -201,7 +203,7 @@
 - l_name:    Асмолов
   name:    Олег
   s_name:    Евгеньевич
-  status: none
+  status: wants
 - l_name:    Стерлев
   name:    Сергей
   s_name:    Дмитриевич
