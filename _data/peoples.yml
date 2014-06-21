@@ -58,10 +58,10 @@
   name:    Анна
   s_name:    Игоревна
   status: wants
-- l_name:    Свеженцева (Ткаченко)
+- l_name:    Свеженцева (Сакун)
   name:    Анна
   s_name:    Викторовна
-  status: none
+  status: wants
 - l_name:    Жук (Пазюра)
   name:    Юлия
   s_name:    Ивановна
@@ -178,7 +178,7 @@
 - l_name:    Ена
   name:    Антон
   s_name:    Валерьевич
-  status: none
+  status: wants
 - l_name:    Брылева
   name:    Екатерина
   s_name:    Юрьевна
