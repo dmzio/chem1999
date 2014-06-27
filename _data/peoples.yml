@@ -2,10 +2,9 @@
   name:    Оксана
   s_name:    Васильевна
   status: none
-#- l_name:    Желтикова
-#  name:    Павел
-#  s_name:
-#  status: dead
+- l_name:    Чернов
+  name:    Павел
+  status: dead
 - l_name:    Деева
   name:    Юлия
   s_name:    Александровна
@@ -166,7 +165,7 @@
 - l_name:    Сорока 
   name:    Елизавета
   s_name:    Вадимовна
-  status: contacted
+  status: wants
 - l_name:    Малобродский
   name:    Алексей
   s_name:    Витальевич
@@ -252,6 +251,14 @@
 - l_name:   Роменская
   name:   Маша
   status: contacted
+
+- l_name: Топунов
+  name:   Артем
+  status:
+
+- l_name:   Репринцев
+  name:   Николай
+  status:
 
 
 
