@@ -9,7 +9,7 @@
 - l_name:    Деева
   name:    Юлия
   s_name:    Александровна
-  status: none
+  status: contacted
 - l_name:    Литвин
   name:    Светлана
   s_name:    Ивановна
@@ -17,7 +17,7 @@
 - l_name:    Шкумат
   name:    Ася
   s_name:    Анатольевна
-  status: none
+  status: none ---
 - l_name:    Грищук (Кармазина)
   name:    Виктория
   s_name:    Эдуардовна
@@ -77,7 +77,7 @@
 - l_name:    Свистун
   name:    Юлия
   s_name:    Сергеевна
-  status: none
+  status: wants
 - l_name:    Коваль
   name:    Алла
   s_name:    Владимировна
@@ -93,7 +93,7 @@
 - l_name:    Тимофеева (Щирук)
   name:    Ольга
   s_name:    Николаевна
-  status: none
+  status: declined
 - l_name:    Адров 
   name:    Андрей
   s_name:    Александрович
@@ -101,11 +101,11 @@
 - l_name:    Канивец
   name:    Виктория
   s_name:    Борисовна
-  status: none
+  status: wants
 - l_name:    Коваленко 
   name:    Виктория
   s_name:    Викторовна
-  status: none
+  status: contacted
 - l_name:    Руденко
   name:    Алена
   s_name:    Владимировна
@@ -113,7 +113,7 @@
 - l_name:    Сорочан 
   name:    Марина
   s_name:    Анатольевна
-  status: none
+  status: contacted
 - l_name:    Кудрявцева
   name:    Юлия
   s_name:    Александровна
@@ -133,7 +133,7 @@
 - l_name:    Абакумов
   name:    Владимир
   s_name:    Владимирович
-  status: none
+  status: none ---
 - l_name:    Дергачева (Борисова )
   name:    Ольга
   s_name:    Владимировна
@@ -142,7 +142,7 @@
 - l_name:    Енина
   name:    Лариса
   s_name:    Сергеевна
-  status: none
+  status: none ---
 - l_name:    Островский
   name:    Богдан
   s_name:    Александрович
@@ -170,7 +170,7 @@
 - l_name:    Малобродский
   name:    Алексей
   s_name:    Витальевич
-  status: none
+  status: contacted
 - l_name:    Зайцева
   name:    Анна
   s_name:    Геннадиевна
@@ -186,7 +186,7 @@
 - l_name:    Кулик
   name:    Евгения
   s_name:    Вячеславовна
-  status: none
+  status: contacted
 - l_name:    Бережной 
   name:    Анатолий
   s_name:    Юрьевич
@@ -207,7 +207,7 @@
 - l_name:    Стерлев
   name:    Сергей
   s_name:    Дмитриевич
-  status: none
+  status: contacted
 - l_name:    Шабадаш
   name:    Юлия
   s_name:    Витальевна
@@ -219,23 +219,23 @@
 
 - l_name:    Гавшин
   name:    Александр
-  status: none
+  status: declined
 
 - l_name:    Шарецкая
   name:    Виктория
-  status: none
+  status: wants
 
 - l_name:    Давидовская
   name:    Ирина
-  status: none
+  status: contacted
 
 - l_name:   Сотник
   name:   Лена
-  status:
+  status: contacted
 
 - l_name:   Ясько
   name:   Светлана
-  status:
+  status: wants
 
 - l_name:   Глинка
   name:   Юля
@@ -247,11 +247,11 @@
 
 - l_name:   Самарина
   name:    Лена
-  status:
+  status: contacted
 
 - l_name:   Роменская
   name:   Маша
-  status:
+  status: contacted
 
 
 
