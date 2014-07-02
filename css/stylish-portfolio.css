@@ -294,6 +294,10 @@ text-shadow: 1px 1px 15px #000;
 
 }
 
+blockquote footer {
+  padding: 0 0;
+}
+
 
 li.contacted {
     color: #ff9214;
@@ -314,3 +318,4 @@ li.declined {
 li.dead {
     color: #777;
 }
+

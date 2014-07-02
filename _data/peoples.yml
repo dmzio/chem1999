@@ -1,30 +1,35 @@
-- l_name:    Желтикова
-  name:    Оксана
-  s_name:    Васильевна
-  status: contacted
-- l_name:    Чернов
-  name:    Павел
-  status: dead
+- l_name:    Грищук (Кармазина)
+  name:    Виктория
+  s_name:    Эдуардовна
+  status: none
 - l_name:    Деева
   name:    Юлия
   s_name:    Александровна
+  status: contacted
+- l_name:    Желтикова
+  name:    Оксана
+  s_name:    Васильевна
   status: contacted
 - l_name:    Литвин
   name:    Светлана
   s_name:    Ивановна
   status: wants
-- l_name:    Шкумат
-  name:    Ася
-  s_name:    Анатольевна
-  status: none ---
-- l_name:    Грищук (Кармазина)
-  name:    Виктория
-  s_name:    Эдуардовна
-  status: none
 - l_name:    Соловьева (Зеленская)
   name:    Светлана
   s_name:    Николаевна
   status: declined
+- l_name:    Шкумат
+  name:    Ася
+  s_name:    Анатольевна
+  status: none ---
+- l_name:    Чернов
+  name:    Павел
+  status: dead
+
+
+
+
+
 - l_name:    Химченко
   name:    Сергей
   s_name:    Владимирович
