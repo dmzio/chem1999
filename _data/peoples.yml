@@ -5,11 +5,12 @@
 - l_name:    Деева
   name:    Юлия
   s_name:    Александровна
-  status: contacted
+  status: wants
+  remark: с мужем
 - l_name:    Желтикова
   name:    Оксана
   s_name:    Васильевна
-  status: contacted
+  status: wants
 - l_name:    Литвин
   name:    Светлана
   s_name:    Ивановна
@@ -117,7 +118,7 @@
 - l_name:    Сорочан 
   name:    Марина
   s_name:    Анатольевна
-  status: contacted
+  status: declined
 - l_name:    Кудрявцева
   name:    Юлия
   s_name:    Александровна
@@ -211,7 +212,7 @@
 - l_name:    Стерлев
   name:    Сергей
   s_name:    Дмитриевич
-  status: contacted
+  status: wants
 - l_name:    Шабадаш
   name:    Юлия
   s_name:    Витальевна
@@ -243,11 +244,11 @@
 
 - l_name:   Глинка
   name:   Юля
-  status:
+  status: contacted
 
 - l_name:   Малахова
   name:   Катя
-  status:
+  status: declined
 
 - l_name:   Самарина
   name:    Лена
