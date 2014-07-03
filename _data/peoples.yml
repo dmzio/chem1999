@@ -138,7 +138,7 @@
 - l_name:    Абакумов
   name:    Владимир
   s_name:    Владимирович
-  status: none ---
+  status: contacted
 - l_name:    Дергачева (Борисова )
   name:    Ольга
   s_name:    Владимировна
@@ -151,7 +151,7 @@
 - l_name:    Островский
   name:    Богдан
   s_name:    Александрович
-  status: none
+  status: contacted
 - l_name:    Василенко
   name:    Виталий
   s_name:    Станиславович
