@@ -42,7 +42,7 @@
 - l_name:    Кудрис
   name:    Илья
   s_name:    Владимирович
-  status: wants
+  status: approved
 - l_name:    Атаманиченко
   name:    Яна
   s_name:    Анатольевна
@@ -151,7 +151,7 @@
 - l_name:    Островский
   name:    Богдан
   s_name:    Александрович
-  status: contacted
+  status: approved
 - l_name:    Василенко
   name:    Виталий
   s_name:    Станиславович
@@ -163,7 +163,7 @@
 - l_name:    Филатов
   name:    Дмитрий
   s_name:    Юрьевич
-  status: wants
+  status: approved
 - l_name:    Беспалова 
   name:    Ирина
   s_name:    Игоревна
@@ -195,7 +195,7 @@
 - l_name:    Бережной 
   name:    Анатолий
   s_name:    Юрьевич
-  status: wants
+  status: approved
 - l_name:    Зинченко
   name:    Екатерина
   s_name:    Николаевна
