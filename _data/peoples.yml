@@ -204,7 +204,7 @@
 - l_name:    Пикалов
   name:    Алексей
   s_name:    Николаевич
-  status: none
+  status: approved
 - l_name:    Асмолов
   name:    Олег
   s_name:    Евгеньевич
@@ -256,7 +256,7 @@
 
 - l_name:   Роменская
   name:   Маша
-  status: contacted
+  status: declined
 
 - l_name: Топунов
   name:   Артем
@@ -265,6 +265,10 @@
 - l_name:   Репринцев
   name:   Николай
   status:
+
+- l_name:    Поклад
+  name:   Дарина
+  status: wants
 
 
 
