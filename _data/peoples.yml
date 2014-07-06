@@ -1,7 +1,7 @@
 - l_name:    Грищук (Кармазина)
   name:    Виктория
   s_name:    Эдуардовна
-  status: none
+  status: declined
 - l_name:    Деева
   name:    Юлия
   s_name:    Александровна
@@ -70,7 +70,7 @@
 - l_name:    Жук (Пазюра)
   name:    Юлия
   s_name:    Ивановна
-  status: none
+  status: contacted
 - l_name:    Бондарь
   name:    Наталья 
   s_name:    Ивановна
@@ -134,7 +134,7 @@
 - l_name:    Мороз
   name:    Валерий
   s_name:    Владимирович
-  status: wants
+  status: declined
 - l_name:    Абакумов
   name:    Владимир
   s_name:    Владимирович
@@ -147,7 +147,7 @@
 - l_name:    Енина
   name:    Лариса
   s_name:    Сергеевна
-  status: none ---
+  status: contacted
 - l_name:    Островский
   name:    Богдан
   s_name:    Александрович
@@ -269,6 +269,10 @@
 - l_name:    Поклад
   name:   Дарина
   status: wants
+
+- l_name:    Абрамова (Матыко)
+  name:   Нина
+  status: contacted
 
 
 
