@@ -171,7 +171,7 @@
 - l_name:    Сорока 
   name:    Елизавета
   s_name:    Вадимовна
-  status: wants
+  status: approved
 - l_name:    Малобродский
   name:    Алексей
   s_name:    Витальевич
@@ -220,7 +220,7 @@
 - l_name:    Колесниченко
   name:    Михаил
   s_name:    Алексеевич
-  status: wants
+  status: approved
 
 - l_name:    Гавшин
   name:    Александр
