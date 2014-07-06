@@ -62,7 +62,7 @@
 - l_name:    Кононенко
   name:    Анна
   s_name:    Игоревна
-  status: wants
+  status: approved
 - l_name:    Свеженцева (Сакун)
   name:    Анна
   s_name:    Викторовна
@@ -78,7 +78,7 @@
 - l_name:    Зиолковский
   name:    Дмитрий
   s_name:    Владимирович
-  status: wants
+  status: approved
 - l_name:    Свистун
   name:    Юлия
   s_name:    Сергеевна

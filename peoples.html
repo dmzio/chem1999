@@ -22,14 +22,38 @@ title: Статус участников мероприятия
         <h3>Все известные Химики</h3>
         <ul class="list-unstyled">
             {% assign all_peoples = site.data.peoples | sort: 'l_name' %}
+      {{ assign num_approved = 0 }}
+
+      {{ assign num_wants = 0 }}
+
+      {{ assign num_none = 0 }}
             {% for people in all_peoples %}
             <li class="{{ people.status}}">
                 <strong>{{ people.l_name }} {{ people.name }}</strong> {% if people.remark %} ({{ people.remark }}) {% endif %}
             </li>
+
+
+
+
+                    {% case people.status %}
+    {% when 'approved' %}
+      {% assign num_approved = num_approved | plus: 1 %}
+    {% when 'wants' %}
+      {% assign num_wants = num_wants | plus: 1 %}
+    {% else %}
+      {% assign num_none = num_none | plus: 1 %}
+  {% endcase %}
             {% endfor %}
         </ul>
     </div>
 
+    <div class="col-md-4">
+        <h3>Сколько нас:</h3>
+<h2 class="approved">{{ num_approved }} сдали деньги</h2>
+<h3 class="wants">{{ num_wants }} хотят</h3>
+        <h4 class="">{{ num_none }} - прочие</h4>
+        (без учета мужей, жен)
+        </div>
     <div class="col-md-4">
         <h3>Пояснение статусов</h3>
         <ul class="">

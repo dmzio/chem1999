@@ -299,23 +299,23 @@ blockquote footer {
 }
 
 
-li.contacted {
+.contacted {
     color: #ff9214;
 }
 
-li.approved {
+.approved {
     color: #09832e;
 }
 
-li.wants {
+.wants {
     color: #90a151;
 }
 
-li.declined {
+.declined {
     color: #f00;
 }
 
-li.dead {
+.dead {
     color: #777;
 }
 
