@@ -187,7 +187,7 @@
 - l_name:    Брылева
   name:    Екатерина
   s_name:    Юрьевна
-  status: none
+  status: declined
 - l_name:    Кулик
   name:    Евгения
   s_name:    Вячеславовна
@@ -252,7 +252,7 @@
 
 - l_name:   Самарина
   name:    Лена
-  status: contacted
+  status: declined
 
 - l_name:   Роменская
   name:   Маша
@@ -273,6 +273,18 @@
 - l_name:    Абрамова (Матыко)
   name:   Нина
   status: contacted
+
+- l_name:    Повелица
+  name:
+  status: contacted
+
+- l_name:    Калюжный
+  name: Андрей
+  status:
+
+
+
+
 
 
 
