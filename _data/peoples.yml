@@ -46,7 +46,7 @@
 - l_name:    Атаманиченко
   name:    Яна
   s_name:    Анатольевна
-  status: wants
+  status: approved
 - l_name:    Овчаренко
   name:    Анна
   s_name:    Валерьевна
@@ -70,7 +70,8 @@
 - l_name:    Жук (Пазюра)
   name:    Юлия
   s_name:    Ивановна
-  status: contacted
+  status: approved
+  remark: с мужем
 - l_name:    Бондарь
   name:    Наталья 
   s_name:    Ивановна
@@ -82,7 +83,7 @@
 - l_name:    Свистун
   name:    Юлия
   s_name:    Сергеевна
-  status: wants
+  status: approved
 - l_name:    Коваль
   name:    Алла
   s_name:    Владимировна
@@ -106,7 +107,7 @@
 - l_name:    Канивец
   name:    Виктория
   s_name:    Борисовна
-  status: wants
+  status: approved
 - l_name:    Коваленко 
   name:    Виктория
   s_name:    Викторовна
@@ -138,7 +139,7 @@
 - l_name:    Абакумов
   name:    Владимир
   s_name:    Владимирович
-  status: contacted
+  status: approved
 - l_name:    Дергачева (Борисова )
   name:    Ольга
   s_name:    Владимировна
@@ -164,10 +165,10 @@
   name:    Дмитрий
   s_name:    Юрьевич
   status: approved
-- l_name:    Беспалова 
+- l_name:  Беспалова
   name:    Ирина
   s_name:    Игоревна
-  status: wants
+  status: declined
 - l_name:    Сорока 
   name:    Елизавета
   s_name:    Вадимовна
@@ -240,7 +241,7 @@
 
 - l_name:   Ясько
   name:   Светлана
-  status: wants
+  status: declined
 
 - l_name:   Глинка
   name:   Юля
