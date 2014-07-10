@@ -22,7 +22,7 @@
 - l_name:    Шкумат
   name:    Ася
   s_name:    Анатольевна
-  status: none ---
+  status: contacted
 - l_name:    Чернов
   name:    Павел
   status: dead
@@ -103,7 +103,7 @@
 - l_name:    Адров 
   name:    Андрей
   s_name:    Александрович
-  status: wants
+  status: approved
 - l_name:    Канивец
   name:    Виктория
   s_name:    Борисовна
@@ -192,7 +192,7 @@
 - l_name:    Кулик
   name:    Евгения
   s_name:    Вячеславовна
-  status: contacted
+  status: declined
 - l_name:    Бережной 
   name:    Анатолий
   s_name:    Юрьевич
@@ -200,7 +200,7 @@
 - l_name:    Зинченко
   name:    Екатерина
   s_name:    Николаевна
-  status: wants
+  status: approved
   remark: с мужем
 - l_name:    Пикалов
   name:    Алексей
@@ -213,7 +213,7 @@
 - l_name:    Стерлев
   name:    Сергей
   s_name:    Дмитриевич
-  status: wants
+  status: approved
 - l_name:    Шабадаш
   name:    Юлия
   s_name:    Витальевна
